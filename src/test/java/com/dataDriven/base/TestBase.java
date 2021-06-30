@@ -150,7 +150,7 @@ public class TestBase {
 		getExtentTest().log(Status.INFO, "Browser opened successfully "+browser);
 		addLog("Browser opened successfully "+browser);
 		/* //printing thread name
-		//System.out.println(dr.get());   //RemoteWebDriver: firefox on LINUX (a94dc348-9911-45ad-b1d9-f0512b72e1f4)
+		//System.out.println(dr.get());  //RemoteWebDriver: firefox on LINUX (a94dc348-9911-45ad-b1d9-f0512b72e1f4)
 		System.out.println("Thread value is: "+getThreadValue(dr.get()));   */
 	}
 
