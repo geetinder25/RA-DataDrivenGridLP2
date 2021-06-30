@@ -35,8 +35,6 @@ public class TestBase {
 	 * logs
 	 * properties
 	 * excel
-	 * db
-	 * mail
 	 * extent reports
 	 */
 	public static ThreadLocal<RemoteWebDriver> dr=new ThreadLocal<RemoteWebDriver>();
